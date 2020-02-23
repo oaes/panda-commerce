@@ -1,0 +1,77 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.orange-bg{
+    background: #fceae8;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.price{
+    color: #ff2077;
+}
+.buy-now-button{
+   background-image: linear-gradient(to bottom,#ff2077 0%, #ff136f 100%);
+   color:white;
+   border-radius: 8px;
+   cursor: pointer;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   -ms-border-radius: 8px;
+   -o-border-radius: 8px;
+   padding: 9px 25px;
+}
+.cat1, .cat2 , .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.cat1{
+    background: orange;
+   
+}
+.cat2{
+    background-image: linear-gradient(to bottom,#ff2077 0%, #ff136f 100%);
+}
+.cat3{
+    background: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.card-footer{
+    background: white;
+    border-top: none;
+}
+.subscribe{
+    height: 300px;
+}
+.subscribe h6{
+    color: dimgray;
+}
+footer{
+    font-size: 12px;
+    text-align: center;
+    color: dimgray;
+}
